@@ -1,0 +1,106 @@
+.logog{
+    font-family: "Poppins",sans-serif;
+    margin-top:20px;
+    margin-left:20px;
+}
+.logog h1{
+    font-weight: bolder;
+}
+.logog p{
+    font-weight: 400;
+}
+.header{
+    background: url("img/beach.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1630px;
+}
+.headernote{
+    margin: 0;
+    padding: 0;
+}
+.content{
+    margin: 0 auto;
+    padding:0;
+}
+.control{
+    margin-top:14.5%;
+
+}
+.control h1{
+    font-family: "Poppins",sans-serif;
+    font-weight: bolder;
+    font-size: 9.0em;
+    color:#131313;
+    text-align: center;
+}
+.sop{
+    max-width: 600px;
+    margin: -40px auto;
+}
+.control p{
+    font-family: "Poppins",sans-serif;
+    font-weight: bolder;
+    font-size: 1.0em;
+    color:#131313;
+    text-align: right;
+}
+@media (max-width: 768px) {
+    .control h1 { font-size: 4rem; }
+    .sop{
+        max-width: 260px;
+        margin: -25px auto;
+    }
+    .header{
+        height:1500px;
+    }
+}
+#carouselExampleSlidesOnly{
+    width:75%;
+    margin-top:200px;
+}
+.check{
+    margin-top:150px;
+}
+.check h1{
+    font-family: "Poppins",sans-serif;
+    color:#131313;
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+.showl{
+    font-family: "poppins",sans-serif;
+    font-weight: 100;
+    color:#131313;
+    font-size: 1.1rem;
+    margin-left: 40px;
+    margin-top:40px;
+}
+.show{
+    font-family: "Poppins",sans-serif;
+    font-weight: bold;
+    color:#131313;
+    text-decoration: none;
+}
+.cooldo{
+    font-family: 'Poppins';color:#ffffff;font-weight: bold;
+}
+.footer{
+    background-color: #131313;
+    height: 200px;
+    margin-top:100px;
+    font-family: "poppins";
+    color:white;
+}
+.footer h1{
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+.make{
+    padding-top:40px;
+    margin-left:10px;
+}
+show:hover{
+    color:#131313;
+}
