@@ -101,6 +101,15 @@
     padding-top:40px;
     margin-left:10px;
 }
-show:hover{
+.show:hover{
     color:#131313;
+}
+.showq:hover{
+    color:white;
+}
+.showq{
+    font-family: "Poppins",sans-serif;
+    font-weight: bold;
+    color:white;
+    text-decoration: none;
 }
